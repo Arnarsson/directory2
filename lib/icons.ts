@@ -1,0 +1,20 @@
+// Centralized icon imports for better tree-shaking and bundle optimization
+export {
+  BarChart as BarChartIcon,
+  Bookmark,
+  Box as BoxIcon,
+  Filter as FilterIcon,
+  FolderOpen as FolderOpenIcon,
+  Hash,
+  Home as HomeIcon,
+  LogIn,
+  Plus as PlusIcon,
+  ShieldCheck as ShieldCheckIcon,
+  Tag as TagIcon,
+  User,
+  Users as UsersIcon,
+  Loader2,
+  CheckCircle2,
+  AlertCircle,
+  X,
+} from "lucide-react"
